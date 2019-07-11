@@ -16,11 +16,11 @@ using System.Windows;
 using System.Windows.Interop;
 using Newtonsoft.Json;
 using SocketIOClient;
-using WebSocketCommunication;
 using PanaceaLib;
 using ServiceStack.Text;
 using WebSocket4Net;
 using TerminalIdentification;
+using WebSocketCommunication;
 
 namespace ServerCommunicator
 {
